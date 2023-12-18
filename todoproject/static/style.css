@@ -1,0 +1,21 @@
+
+.banner{
+z-index: 1;
+position: fixed;
+background-color: #a9cce3 ;
+height: 100px;
+width: 100%;
+  left: 0; right: 0;
+  top: 0;
+
+}
+.banner-text{
+top:30%;
+left:45%;
+
+}
+
+.del{
+margin-left:40%;
+margin-bottom:10px;
+}
